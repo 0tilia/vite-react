@@ -1,4 +1,5 @@
-import './App.css'
+import './style.css'
+import React from "react"
 import Navbar from "./components/Navbar.jsx"
 import Main from "./components/Main.jsx"
 
