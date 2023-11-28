@@ -43,7 +43,10 @@ main {
     padding: 57px 27px;
     color: white;
     background-image: url(src/images/react-icon-small.png);
-    
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-position-y: 75%;
+    background-size: 500px;
 
 }
 
